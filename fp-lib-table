@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Lightsaber Footprints")(type "KiCad")(uri "C:/Users/suvan/Documents/College/IEEE HOPE/Light Sensor/Lightsaber Footprints.pretty")(options "")(descr ""))
+  (lib (name "Lightsaber Footprint new")(type "KiCad")(uri "${KIPRJMOD}/Lightsaber Footprint new.pretty")(options "")(descr ""))
+)
