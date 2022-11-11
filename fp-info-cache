@@ -1,4 +1,4 @@
-20401209754988938
+20387871141077381
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -57662,62 +57662,6 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
-0
-2
-2
-Lightsaber Footprint new
-Battery
-
-
-0
-2
-2
-Lightsaber Footprint new
-ESP32-S2-SOLO
-ESP32-S2-SOLO https://www.espressif.com/sites/default/files/documentation/esp32-s2-solo_esp32-s2-solo-u_datasheet_en.pdf
-esp32-s2 module
-0
-49
-41
-Lightsaber Footprint new
-LED strip
-
-
-0
-3
-3
-Lightsaber Footprint new
-Motor
-
-
-0
-2
-2
-Lightsaber Footprint new
-Potentiometer
-
-
-0
-3
-3
-Lightsaber Footprint new
-Speaker
-
-
-0
-2
-2
-Lightsaber Footprint new
-Switch
-
-
-0
-2
-2
-Lightsaber Footprint new
-Switch toggle
-
-
 0
 2
 2
